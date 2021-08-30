@@ -81,9 +81,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'onlinesupermarket',
-        'HOST':'localhost',
-        'USER':'root',
-        'PASSWORD':'',
+        'HOST':'database-1.clgfbkny5m9t.us-east-1.rds.amazonaws.com',
+        'USER':'admin',
+        'PASSWORD':'sumeenas20',
     }
 }
 
